@@ -1,0 +1,93 @@
+package com.umeng.xp.a;
+
+import android.content.Context;
+import com.umeng.common.c;
+
+public class a
+{
+  public static int a(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_push_up_in");
+  }
+  
+  public static int b(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_push_up_out");
+  }
+  
+  public static int c(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_push_down_out");
+  }
+  
+  public static int d(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_progressbar");
+  }
+  
+  public static int e(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_in_from_bottom");
+  }
+  
+  public static int f(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_in_from_top");
+  }
+  
+  public static int g(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_in_from_left");
+  }
+  
+  public static int h(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_in_from_right");
+  }
+  
+  public static int i(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_out_from_bottom");
+  }
+  
+  public static int j(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_out_from_top");
+  }
+  
+  public static int k(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_out_from_left");
+  }
+  
+  public static int l(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_slide_out_from_right");
+  }
+  
+  public static int m(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_zoom_in");
+  }
+  
+  public static int n(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_zoom_out");
+  }
+  
+  public static int o(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_fade_in");
+  }
+  
+  public static int p(Context paramContext)
+  {
+    return c.a(paramContext).a("umeng_xp_large_gallery_in");
+  }
+}
+
+
+/* Location:              E:\project\angent\dex2jar-2.0\classes-dex2jar.jar!\com\umeng\xp\a\a.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */

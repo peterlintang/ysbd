@@ -1,0 +1,30 @@
+package com.umeng.newxp.view;
+
+import android.content.Context;
+import android.graphics.drawable.Drawable;
+import android.view.View;
+
+public abstract interface e
+{
+  public abstract int a();
+  
+  public abstract Drawable a(int paramInt);
+  
+  public abstract View a(Context paramContext, int paramInt1, int paramInt2, int paramInt3);
+  
+  public abstract View a(Context paramContext, HorizontalStrip paramHorizontalStrip, int paramInt);
+  
+  public abstract void a(int paramInt, c paramc, float paramFloat);
+  
+  public abstract void a(HorizontalStrip.a parama);
+  
+  public abstract void b(int paramInt);
+  
+  public abstract boolean b();
+}
+
+
+/* Location:              E:\project\angent\dex2jar-2.0\classes-dex2jar.jar!\com\umeng\newxp\view\e.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */
